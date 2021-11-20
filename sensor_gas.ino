@@ -1,6 +1,7 @@
 #define entradaDigital 52
 #define entradaAnalogica 0
 
+
 bool dSensor;
 int aSensor;
 
