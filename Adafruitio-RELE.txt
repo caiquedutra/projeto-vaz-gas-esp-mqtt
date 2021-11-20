@@ -1,5 +1,5 @@
 // Please support Adafruit and open source hardware by purchasing
-// products from Adafruit!
+// products from Adauit!
 //
 // Written by Todd Treece for Adafruit Industries
 // Copyright (c) 2016 Adafruit Industries
